@@ -1,0 +1,42 @@
+[
+  {
+    "id": "repeat-1",
+    "records": [
+      {
+        "sku": "APPLE",
+        "name": "Apple",
+        "version": 1,
+        "price_cents": 120,
+        "withdrawn": false
+      },
+      {
+        "sku": "TEA",
+        "name": "Tea",
+        "version": 1,
+        "price_cents": 450,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_80cdab2bc81e382b8518"
+  },
+  {
+    "id": "repeat-2",
+    "records": [
+      {
+        "sku": "APPLE",
+        "name": "Apple",
+        "version": 1,
+        "price_cents": 120,
+        "withdrawn": false
+      },
+      {
+        "sku": "TEA",
+        "name": "Tea",
+        "version": 1,
+        "price_cents": 450,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": ""
+  }
+]

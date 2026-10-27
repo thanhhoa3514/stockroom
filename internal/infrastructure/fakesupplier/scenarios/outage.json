@@ -1,0 +1,885 @@
+[
+  {
+    "id": "outage-1",
+    "records": [
+      {
+        "sku": "SHOP-001",
+        "name": "Rice",
+        "price_cents": 125,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-002",
+        "name": "Brown Rice",
+        "price_cents": 150,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-003",
+        "name": "Oats",
+        "price_cents": 175,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-004",
+        "name": "Flour",
+        "price_cents": 200,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-005",
+        "name": "Sugar",
+        "price_cents": 225,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-006",
+        "name": "Salt",
+        "price_cents": 250,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-007",
+        "name": "Pepper",
+        "price_cents": 275,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-008",
+        "name": "Pasta",
+        "price_cents": 300,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-009",
+        "name": "Noodles",
+        "price_cents": 325,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-010",
+        "name": "Cooking Oil",
+        "price_cents": 350,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-011",
+        "name": "Olive Oil",
+        "price_cents": 375,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-012",
+        "name": "Soy Sauce",
+        "price_cents": 400,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-013",
+        "name": "Vinegar",
+        "price_cents": 425,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-014",
+        "name": "Honey",
+        "price_cents": 450,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-015",
+        "name": "Jam",
+        "price_cents": 475,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-016",
+        "name": "Peanut Butter",
+        "price_cents": 500,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-017",
+        "name": "Coffee Beans",
+        "price_cents": 525,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-018",
+        "name": "Black Tea",
+        "price_cents": 550,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-019",
+        "name": "Green Tea",
+        "price_cents": 575,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-020",
+        "name": "Cocoa",
+        "price_cents": 600,
+        "version": 1,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_0f4de5d94e38fe650ba8"
+  },
+  {
+    "id": "outage-2",
+    "records": [
+      {
+        "sku": "SHOP-021",
+        "name": "Milk",
+        "price_cents": 625,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-022",
+        "name": "Oat Milk",
+        "price_cents": 650,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-023",
+        "name": "Yogurt",
+        "price_cents": 675,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-024",
+        "name": "Cheese",
+        "price_cents": 700,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-025",
+        "name": "Butter",
+        "price_cents": 725,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-026",
+        "name": "Eggs",
+        "price_cents": 750,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-027",
+        "name": "Bread",
+        "price_cents": 775,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-028",
+        "name": "Crackers",
+        "price_cents": 800,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-029",
+        "name": "Cookies",
+        "price_cents": 825,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-030",
+        "name": "Chocolate",
+        "price_cents": 850,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-031",
+        "name": "Apples",
+        "price_cents": 875,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-032",
+        "name": "Bananas",
+        "price_cents": 900,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-033",
+        "name": "Oranges",
+        "price_cents": 925,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-034",
+        "name": "Pears",
+        "price_cents": 950,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-035",
+        "name": "Carrots",
+        "price_cents": 975,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-036",
+        "name": "Potatoes",
+        "price_cents": 1000,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-037",
+        "name": "Onions",
+        "price_cents": 1025,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-038",
+        "name": "Tomatoes",
+        "price_cents": 1050,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-039",
+        "name": "Lentils",
+        "price_cents": 1075,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-040",
+        "name": "Chickpeas",
+        "price_cents": 1100,
+        "version": 1,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_977a05b593d7de862f69"
+  },
+  {
+    "id": "outage-3",
+    "records": [
+      {
+        "sku": "SHOP-001",
+        "name": "Rice",
+        "price_cents": 175,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-002",
+        "name": "Brown Rice",
+        "price_cents": 200,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-003",
+        "name": "Oats",
+        "price_cents": 225,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-004",
+        "name": "Flour",
+        "price_cents": 250,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-005",
+        "name": "Sugar",
+        "price_cents": 275,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-006",
+        "name": "Salt",
+        "price_cents": 300,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-007",
+        "name": "Pepper",
+        "price_cents": 325,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-008",
+        "name": "Pasta",
+        "price_cents": 350,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-009",
+        "name": "Noodles",
+        "price_cents": 375,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-010",
+        "name": "Cooking Oil",
+        "price_cents": 400,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-011",
+        "name": "Olive Oil",
+        "price_cents": 375,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-012",
+        "name": "Soy Sauce",
+        "price_cents": 400,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-013",
+        "name": "Vinegar",
+        "price_cents": 425,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-014",
+        "name": "Honey",
+        "price_cents": 450,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-015",
+        "name": "Jam",
+        "price_cents": 475,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-001",
+        "name": "Rice",
+        "price_cents": 1,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-002",
+        "name": "Brown Rice",
+        "price_cents": 1,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-003",
+        "name": "Oats",
+        "price_cents": 1,
+        "version": 1,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_d6198694b595cb25d1d9"
+  },
+  {
+    "id": "outage-4",
+    "records": [
+      {
+        "sku": "SHOP-006",
+        "name": "",
+        "price_cents": 0,
+        "version": 3,
+        "withdrawn": true
+      },
+      {
+        "sku": "SHOP-007",
+        "name": "",
+        "price_cents": 0,
+        "version": 3,
+        "withdrawn": true
+      },
+      {
+        "sku": "SHOP-008",
+        "name": "",
+        "price_cents": 0,
+        "version": 3,
+        "withdrawn": true
+      },
+      {
+        "sku": "SHOP-009",
+        "name": "",
+        "price_cents": 0,
+        "version": 3,
+        "withdrawn": true
+      },
+      {
+        "sku": "SHOP-010",
+        "name": "",
+        "price_cents": 0,
+        "version": 3,
+        "withdrawn": true
+      },
+      {
+        "sku": "OLD-001",
+        "name": "",
+        "price_cents": 0,
+        "version": 5,
+        "withdrawn": true
+      },
+      {
+        "sku": "",
+        "name": "Missing SKU",
+        "price_cents": 100,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "BAD-PRICE",
+        "name": "Invalid price",
+        "price_cents": -100,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "BAD-VERSION",
+        "name": "Invalid version",
+        "price_cents": 100,
+        "version": 0,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_7603dd51fd16d172add8"
+  },
+  {
+    "id": "outage-5",
+    "records": [
+      {
+        "sku": "SHOP-001",
+        "name": "Rice",
+        "price_cents": 125,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-002",
+        "name": "Brown Rice",
+        "price_cents": 150,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-003",
+        "name": "Oats",
+        "price_cents": 175,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-004",
+        "name": "Flour",
+        "price_cents": 200,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-005",
+        "name": "Sugar",
+        "price_cents": 225,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-006",
+        "name": "Salt",
+        "price_cents": 250,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-007",
+        "name": "Pepper",
+        "price_cents": 275,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-008",
+        "name": "Pasta",
+        "price_cents": 300,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-009",
+        "name": "Noodles",
+        "price_cents": 325,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-010",
+        "name": "Cooking Oil",
+        "price_cents": 350,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-011",
+        "name": "Olive Oil",
+        "price_cents": 375,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-012",
+        "name": "Soy Sauce",
+        "price_cents": 400,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-013",
+        "name": "Vinegar",
+        "price_cents": 425,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-014",
+        "name": "Honey",
+        "price_cents": 450,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-015",
+        "name": "Jam",
+        "price_cents": 475,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-016",
+        "name": "Peanut Butter",
+        "price_cents": 500,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-017",
+        "name": "Coffee Beans",
+        "price_cents": 525,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-018",
+        "name": "Black Tea",
+        "price_cents": 550,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-019",
+        "name": "Green Tea",
+        "price_cents": 575,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-020",
+        "name": "Cocoa",
+        "price_cents": 600,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-021",
+        "name": "Milk",
+        "price_cents": 625,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-022",
+        "name": "Oat Milk",
+        "price_cents": 650,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-023",
+        "name": "Yogurt",
+        "price_cents": 675,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-024",
+        "name": "Cheese",
+        "price_cents": 700,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-025",
+        "name": "Butter",
+        "price_cents": 725,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-026",
+        "name": "Eggs",
+        "price_cents": 750,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-027",
+        "name": "Bread",
+        "price_cents": 775,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-028",
+        "name": "Crackers",
+        "price_cents": 800,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-029",
+        "name": "Cookies",
+        "price_cents": 825,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-030",
+        "name": "Chocolate",
+        "price_cents": 850,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-031",
+        "name": "Apples",
+        "price_cents": 875,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-032",
+        "name": "Bananas",
+        "price_cents": 900,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-033",
+        "name": "Oranges",
+        "price_cents": 925,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-034",
+        "name": "Pears",
+        "price_cents": 950,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-035",
+        "name": "Carrots",
+        "price_cents": 975,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-036",
+        "name": "Potatoes",
+        "price_cents": 1000,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-037",
+        "name": "Onions",
+        "price_cents": 1025,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-038",
+        "name": "Tomatoes",
+        "price_cents": 1050,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-039",
+        "name": "Lentils",
+        "price_cents": 1075,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-040",
+        "name": "Chickpeas",
+        "price_cents": 1100,
+        "version": 1,
+        "withdrawn": false
+      },
+      {
+        "sku": "OLD-001",
+        "name": "Old listing",
+        "price_cents": 100,
+        "version": 2,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_a296287401b728202204"
+  },
+  {
+    "id": "outage-6",
+    "records": [
+      {
+        "sku": "SHOP-008",
+        "name": "Pasta",
+        "price_cents": 400,
+        "version": 4,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-009",
+        "name": "Noodles",
+        "price_cents": 425,
+        "version": 4,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-021",
+        "name": "Milk",
+        "price_cents": 700,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-022",
+        "name": "Oat Milk",
+        "price_cents": 725,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-023",
+        "name": "Yogurt",
+        "price_cents": 750,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-024",
+        "name": "Cheese",
+        "price_cents": 775,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-025",
+        "name": "Butter",
+        "price_cents": 800,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-026",
+        "name": "Eggs",
+        "price_cents": 750,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-027",
+        "name": "Bread",
+        "price_cents": 775,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-028",
+        "name": "Crackers",
+        "price_cents": 800,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-029",
+        "name": "Cookies",
+        "price_cents": 825,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-030",
+        "name": "Chocolate",
+        "price_cents": 850,
+        "version": 2,
+        "withdrawn": false
+      },
+      {
+        "sku": "SHOP-008",
+        "name": "",
+        "price_cents": 0,
+        "version": 3,
+        "withdrawn": true
+      }
+    ],
+    "next_cursor": ""
+  }
+]

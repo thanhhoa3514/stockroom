@@ -1,0 +1,55 @@
+[
+  {
+    "id": "basic-1",
+    "records": [
+      {
+        "sku": "APPLE",
+        "name": "Apple",
+        "version": 1,
+        "price_cents": 120,
+        "withdrawn": false
+      },
+      {
+        "sku": "TEA",
+        "name": "Tea",
+        "version": 1,
+        "price_cents": 450,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_3acac222410392a75dd2"
+  },
+  {
+    "id": "basic-2",
+    "records": [
+      {
+        "sku": "APPLE",
+        "name": "Apple",
+        "version": 2,
+        "price_cents": 150,
+        "withdrawn": false
+      },
+      {
+        "sku": "COFFEE",
+        "name": "Coffee",
+        "version": 1,
+        "price_cents": 800,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_d5638a46438c9b42c095"
+  },
+  {
+    "id": "basic-3",
+    "records": [
+      {
+        "sku": "TEA",
+        "name": "",
+        "version": 2,
+        "price_cents": 0,
+        "withdrawn": true
+      }
+    ],
+    "next_cursor": ""
+  }
+]

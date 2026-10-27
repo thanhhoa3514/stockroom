@@ -1,0 +1,49 @@
+[
+  {
+    "id": "bad-1",
+    "records": [
+      {
+        "sku": "APPLE",
+        "name": "Apple",
+        "version": 1,
+        "price_cents": 120,
+        "withdrawn": false
+      },
+      {
+        "sku": "",
+        "name": "No SKU",
+        "version": 1,
+        "price_cents": 0,
+        "withdrawn": false
+      },
+      {
+        "sku": "BAD-PRICE",
+        "name": "Bad price",
+        "version": 1,
+        "price_cents": -1,
+        "withdrawn": false
+      },
+      {
+        "sku": "BAD-VERSION",
+        "name": "Bad version",
+        "version": 0,
+        "price_cents": 0,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": "cur_99938ec9aeda1ef86fb6"
+  },
+  {
+    "id": "bad-2",
+    "records": [
+      {
+        "sku": "COFFEE",
+        "name": "Coffee",
+        "version": 1,
+        "price_cents": 800,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": ""
+  }
+]

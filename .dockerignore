@@ -1,0 +1,10 @@
+.git
+.agents
+.aws
+.codex
+bin
+data
+*.db
+*.db-shm
+*.db-wal
+STOCKROOM_PLAN.md*

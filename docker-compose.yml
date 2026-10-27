@@ -1,0 +1,6 @@
+services:
+  stockroom:
+    build: .
+    user: "${STOCKROOM_UID:-1000}:${STOCKROOM_GID:-1000}"
+    volumes:
+      - ./data:/data

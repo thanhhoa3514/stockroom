@@ -1,0 +1,42 @@
+[
+  {
+    "id": "late-1",
+    "records": [
+      {
+        "sku": "APPLE",
+        "name": "Apple",
+        "version": 3,
+        "price_cents": 150,
+        "withdrawn": false
+      },
+      {
+        "sku": "TEA",
+        "name": "",
+        "version": 3,
+        "price_cents": 0,
+        "withdrawn": true
+      }
+    ],
+    "next_cursor": "cur_86b5ab054dd58a59b388"
+  },
+  {
+    "id": "late-2",
+    "records": [
+      {
+        "sku": "APPLE",
+        "name": "Old apple",
+        "version": 2,
+        "price_cents": 100,
+        "withdrawn": false
+      },
+      {
+        "sku": "TEA",
+        "name": "Old tea",
+        "version": 2,
+        "price_cents": 300,
+        "withdrawn": false
+      }
+    ],
+    "next_cursor": ""
+  }
+]
