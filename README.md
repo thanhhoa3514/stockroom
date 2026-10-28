@@ -161,3 +161,23 @@ Before start/resume, a leftover `running` row is marked incomplete for recovery.
 - No immutable change history; historical counts have the limits described above.
 - No persisted scenario identity or general schema version history; startup currently checks the schema and applies the creation-time upgrade when needed.
 
+## AI usage
+
+### Tools used
+
+For larger projects where correctness and maintainability matter, I generally prefer models from Anthropic and OpenAI. For this assessment, I used OpenAI Codex as a coding agent and Claude as a design advisor.
+
+### Solution design
+
+I discussed the assessment's data model and edge cases with Claude, including version-based conflict handling, tombstones for withdrawn products, and storing the supplier cursor in the same transaction as the batch. I proposed the solution based on my experience and made the final decisions about the design and scope.
+
+The submitted implementation stores one current row per SKU and updates it in place when a newer supplier version is accepted. It does not implement append-only product history; the limitations of this choice are documented above.
+
+### Code generation
+
+Codex scaffolded and implemented the project from a written plan that I reviewed and adapted. Its contributions included the layered structure, application ports, reconciliation logic, SQLite adapter and migrations, CLI, automated tests, Docker configuration, and documentation. I also used it to refine the fictional supplier scenarios and prepare the demo walkthrough.
+
+### My contribution
+
+I defined and refined the requirements and assumptions, reviewed the proposed approach, and ran the application scenarios and tests. I used the results to question and refine the behavior, including batch recovery, withdrawal handling, version ordering, timestamps, and the local development workflow. I remain responsible for the submitted solution and its documented tradeoffs.
+
